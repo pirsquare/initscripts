@@ -1,4 +1,1 @@
-initscripts
-===========
-
-Collections of init scripts
+Collections of init scripts.
