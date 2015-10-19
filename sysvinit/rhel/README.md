@@ -1,0 +1,1 @@
+Tested on RHEL 6+
