@@ -1,1 +1,1 @@
-Tested on RHEL 6+
+Should work in RHEL 6+
