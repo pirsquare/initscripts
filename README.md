@@ -1,1 +1,1 @@
-Collections of init scripts.
+Collections of init scripts for SysVinit and Systemd.
